@@ -42,7 +42,7 @@ L’obiettivo è simulare la modulazione e la demodulazione FM di segnali digita
 
 ## Autore
 
-Denni – Studente di Ingegneria Informatica e dell’Informazione (Curriculum Elettronica)  
+Denni – Studente di Ingegneria Informatica e dell’Informazione  
 Università di Siena
 
 ---
